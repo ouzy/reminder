@@ -1,0 +1,31 @@
+@import 'bootstrap';
+@import 'bootstrap-responsive';
+
+
+body {
+	background-color: #ce4a35;
+	color: white;
+}
+
+.bottom-text {
+	padding-top: 30px;
+}
+
+.send-button {
+	background-color: #00a651;
+	
+	height: 50px;
+	width: 250px;
+}
+
+.send-button .button-text {
+	font-size: 1.5em;
+	margin-top: 30%;
+	text-align: center;
+	position: relative;
+}
+.send-button:hover {
+	background-color: #018240;
+}
+
+
