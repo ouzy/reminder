@@ -1,7 +1,6 @@
 class CreateReminders < ActiveRecord::Migration
-  def up
+  def change do |c|
+  	c.
   end
 
-  def down
-  end
 end
